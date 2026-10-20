@@ -1,5 +1,3 @@
-Java Assignment - Generics, Optional, Objects, LocalDate/LocalTime
-===================================================================
 
 Files (in src/):
   Q1_GenericSum.java      - Generic sum using <T extends Number> and doubleValue()

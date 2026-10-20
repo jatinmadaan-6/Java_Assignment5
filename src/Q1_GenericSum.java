@@ -4,7 +4,7 @@
  */
 public class Q1_GenericSum {
 
-    // Bounded generic method: T must be Number or a subclass of Number
+
     public static <T extends Number> double sum(T[] array) {
         double total = 0.0;
         for (T element : array) {
