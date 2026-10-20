@@ -13,6 +13,6 @@ How to compile and run:
   java Q1_GenericSum
   java Q2_OptionalEmail
   java Q3_Result
-  java Q4_EventManager      (enter name, date as yyyy-MM-dd, time as HH:mm, venue or press Enter)
+  java Q4_EventManager      (enter name, date, time as HH:mm, venue or press Enter)
   java Q5_GenericUtility
   java Main                 (runs Q1, Q2, Q3, Q5)
